@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74" started-at="2019-12-17T15:53:42 CST" finished-at="2019-12-17T15:53:42 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74" started-at="2019-12-17T15:53:42 CST" finished-at="2019-12-17T15:53:42 CST">
+      <class name="com.java.learning.automation.Arrays">
+        <test-method status="PASS" signature="myArrayMethod()[pri:0, instance:com.java.learning.automation.Arrays@64bfbc86]" name="myArrayMethod" duration-ms="13" started-at="2019-12-17T15:53:42 CST" description=" One dimensional array" finished-at="2019-12-17T15:53:42 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myArrayMethod -->
+        <test-method status="PASS" signature="myTwoArrayMethod()[pri:0, instance:com.java.learning.automation.Arrays@64bfbc86]" name="myTwoArrayMethod" duration-ms="4" started-at="2019-12-17T15:53:42 CST" description=" Two dimensional array" finished-at="2019-12-17T15:53:42 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTwoArrayMethod -->
+      </class> <!-- com.java.learning.automation.Arrays -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
